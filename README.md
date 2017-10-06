@@ -1,2 +1,2 @@
 # robin-trader
-Automatic investing in Robinhood with my own personal algorithm
+Automatic investing in Robinhood with my own personal algorithm.
